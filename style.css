@@ -289,6 +289,7 @@ header a {
 .carousel.next .arrows button,
 .carousel.prev .arrows button {
   pointer-events: none;
+  cursor: not-allowed;
 }
 .carousel.prev .list .item:nth-child(2) .content .author,
 .carousel.prev .list .item:nth-child(2) .content .title,
